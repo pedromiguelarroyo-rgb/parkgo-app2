@@ -1,0 +1,176 @@
+[
+  {
+    "id": "cr_1",
+    "type": "ev",
+    "title": "Iberdrola - Ciudad Real Capital",
+    "coordinate": { "latitude": 38.986, "longitude": -3.927 }
+  },
+  {
+    "id": "cr_2",
+    "type": "ev",
+    "title": "Mercadona - Ciudad Real",
+    "coordinate": { "latitude": 38.984, "longitude": -3.933 }
+  },
+  {
+    "id": "cr_3",
+    "type": "ev",
+    "title": "Parking Plaza Mayor - Ciudad Real",
+    "coordinate": { "latitude": 38.9869, "longitude": -3.9276 }
+  },
+  {
+    "id": "cr_4",
+    "type": "ev",
+    "title": "Puertollano - Estación AVE",
+    "coordinate": { "latitude": 38.698, "longitude": -4.107 }
+  },
+  {
+    "id": "cr_5",
+    "type": "ev",
+    "title": "Puertollano - C.C. La Estación",
+    "coordinate": { "latitude": 38.691, "longitude": -4.107 }
+  },
+  {
+    "id": "cr_6",
+    "type": "ev",
+    "title": "Daimiel - Plaza España",
+    "coordinate": { "latitude": 39.07, "longitude": -3.615 }
+  },
+  {
+    "id": "cr_7",
+    "type": "ev",
+    "title": "Daimiel - Parking Supermercado",
+    "coordinate": { "latitude": 39.072, "longitude": -3.616 }
+  },
+  {
+    "id": "cr_8",
+    "type": "ev",
+    "title": "Alcázar de San Juan - Estación Renfe",
+    "coordinate": { "latitude": 39.3906, "longitude": -3.2147 }
+  },
+  {
+    "id": "cr_9",
+    "type": "ev",
+    "title": "Alcázar de San Juan - Plaza España",
+    "coordinate": { "latitude": 39.389, "longitude": -3.215 }
+  },
+  {
+    "id": "cr_10",
+    "type": "ev",
+    "title": "Tomelloso - Ayuntamiento",
+    "coordinate": { "latitude": 39.157, "longitude": -3.021 }
+  },
+  {
+    "id": "cr_11",
+    "type": "ev",
+    "title": "Tomelloso - Parking Supermercado",
+    "coordinate": { "latitude": 39.16, "longitude": -3.02 }
+  },
+  {
+    "id": "cr_12",
+    "type": "ev",
+    "title": "Valdepeñas - Plaza de España",
+    "coordinate": { "latitude": 38.762, "longitude": -3.384 }
+  },
+  {
+    "id": "cr_13",
+    "type": "ev",
+    "title": "Valdepeñas - Estación de Servicio Repsol",
+    "coordinate": { "latitude": 38.764, "longitude": -3.388 }
+  },
+  {
+    "id": "cr_14",
+    "type": "ev",
+    "title": "Manzanares - Estación de Autobuses",
+    "coordinate": { "latitude": 38.999, "longitude": -3.373 }
+  },
+  {
+    "id": "cr_15",
+    "type": "ev",
+    "title": "Manzanares - C.C. La Mancha",
+    "coordinate": { "latitude": 38.997, "longitude": -3.373 }
+  },
+  {
+    "id": "cr_16",
+    "type": "ev",
+    "title": "Campo de Criptana - Molinos",
+    "coordinate": { "latitude": 39.403, "longitude": -3.128 }
+  },
+  {
+    "id": "cr_17",
+    "type": "ev",
+    "title": "Campo de Criptana - Ayuntamiento",
+    "coordinate": { "latitude": 39.404, "longitude": -3.127 }
+  },
+  {
+    "id": "cr_18",
+    "type": "ev",
+    "title": "La Solana - Plaza Mayor",
+    "coordinate": { "latitude": 38.943, "longitude": -3.237 }
+  },
+  {
+    "id": "cr_19",
+    "type": "ev",
+    "title": "La Solana - Parking Municipal",
+    "coordinate": { "latitude": 38.944, "longitude": -3.238 }
+  },
+  {
+    "id": "cr_20",
+    "type": "ev",
+    "title": "Socuéllamos - Ayuntamiento",
+    "coordinate": { "latitude": 39.284, "longitude": -2.793 }
+  },
+  {
+    "id": "cr_21",
+    "type": "ev",
+    "title": "Socuéllamos - Parking Comercial",
+    "coordinate": { "latitude": 39.285, "longitude": -2.792 }
+  },
+  {
+    "id": "cr_22",
+    "type": "ev",
+    "title": "Miguelturra - Plaza de España",
+    "coordinate": { "latitude": 38.963, "longitude": -3.890 }
+  },
+  {
+    "id": "cr_23",
+    "type": "ev",
+    "title": "Miguelturra - Parking Deportivo",
+    "coordinate": { "latitude": 38.965, "longitude": -3.892 }
+  },
+  {
+    "id": "cr_24",
+    "type": "ev",
+    "title": "Almagro - Plaza Mayor",
+    "coordinate": { "latitude": 38.888, "longitude": -3.709 }
+  },
+  {
+    "id": "cr_25",
+    "type": "ev",
+    "title": "Almagro - Teatro Municipal",
+    "coordinate": { "latitude": 38.887, "longitude": -3.708 }
+  }
+]
+[
+  { "id": "to_1", "type": "ev", "title": "Toledo - Plaza de Zocodover", "coordinate": { "latitude": 39.8628, "longitude": -4.0273 } },
+  { "id": "to_2", "type": "ev", "title": "Toledo - Estación Renfe", "coordinate": { "latitude": 39.864, "longitude": -4.034 } },
+  { "id": "to_3", "type": "ev", "title": "Toledo - Parking Safont", "coordinate": { "latitude": 39.856, "longitude": -4.034 } },
+  { "id": "to_4", "type": "ev", "title": "Toledo - Hospital Virgen de la Salud", "coordinate": { "latitude": 39.855, "longitude": -4.019 } },
+  { "id": "to_5", "type": "ev", "title": "Toledo - Centro Comercial Luz del Tajo", "coordinate": { "latitude": 39.883, "longitude": -4.026 } },
+  { "id": "to_6", "type": "ev", "title": "Talavera de la Reina - Plaza del Pan", "coordinate": { "latitude": 39.957, "longitude": -4.830 } },
+  { "id": "to_7", "type": "ev", "title": "Talavera - Hospital Nuestra Señora del Prado", "coordinate": { "latitude": 39.960, "longitude": -4.830 } },
+  { "id": "to_8", "type": "ev", "title": "Talavera - Estación Autobuses", "coordinate": { "latitude": 39.958, "longitude": -4.831 } },
+  { "id": "to_9", "type": "ev", "title": "Talavera - Parking Centro Comercial El Golf", "coordinate": { "latitude": 39.959, "longitude": -4.832 } },
+  { "id": "to_10", "type": "ev", "title": "Seseña - Parking Centro Comercial Plaza Seseña", "coordinate": { "latitude": 40.063, "longitude": -3.774 } },
+  { "id": "to_11", "type": "ev", "title": "Seseña - Estación de Servicio", "coordinate": { "latitude": 40.064, "longitude": -3.773 } },
+  { "id": "to_12", "type": "ev", "title": "Illescas - Plaza Mayor", "coordinate": { "latitude": 40.082, "longitude": -3.854 } },
+  { "id": "to_13", "type": "ev", "title": "Illescas - Centro Comercial", "coordinate": { "latitude": 40.083, "longitude": -3.853 } },
+  { "id": "to_14", "type": "ev", "title": "Consuegra - Plaza de España", "coordinate": { "latitude": 39.467, "longitude": -3.779 } },
+  { "id": "to_15", "type": "ev", "title": "Consuegra - Ayuntamiento", "coordinate": { "latitude": 39.468, "longitude": -3.780 } },
+  { "id": "to_16", "type": "ev", "title": "Talavera la Nueva - Gasolinera", "coordinate": { "latitude": 39.965, "longitude": -4.824 } },
+  { "id": "to_17", "type": "ev", "title": "Toledo - Universidad", "coordinate": { "latitude": 39.861, "longitude": -4.021 } },
+  { "id": "to_18", "type": "ev", "title": "Toledo - Parking Mercado", "coordinate": { "latitude": 39.860, "longitude": -4.027 } },
+  { "id": "to_19", "type": "ev", "title": "Toledo - Estadio Salto del Caballo", "coordinate": { "latitude": 39.874, "longitude": -4.010 } },
+  { "id": "to_20", "type": "ev", "title": "Toledo - Hospital Provincial", "coordinate": { "latitude": 39.858, "longitude": -4.018 } },
+  { "id": "to_21", "type": "ev", "title": "Yuncos - Plaza del Ayuntamiento", "coordinate": { "latitude": 40.017, "longitude": -3.761 } },
+  { "id": "to_22", "type": "ev", "title": "Yuncos - Estación de Servicio", "coordinate": { "latitude": 40.018, "longitude": -3.762 } }
+]

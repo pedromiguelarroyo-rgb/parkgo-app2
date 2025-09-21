@@ -1,152 +1,69 @@
-[
-  {
-    "id": "cr_1",
-    "type": "ev",
-    "title": "Iberdrola - Ciudad Real Capital",
-    "coordinate": { "latitude": 38.986, "longitude": -3.927 }
-  },
-  {
-    "id": "cr_2",
-    "type": "ev",
-    "title": "Mercadona - Ciudad Real",
-    "coordinate": { "latitude": 38.984, "longitude": -3.933 }
-  },
-  {
-    "id": "cr_3",
-    "type": "ev",
-    "title": "Parking Plaza Mayor - Ciudad Real",
-    "coordinate": { "latitude": 38.9869, "longitude": -3.9276 }
-  },
-  {
-    "id": "cr_4",
-    "type": "ev",
-    "title": "Puertollano - Estación AVE",
-    "coordinate": { "latitude": 38.698, "longitude": -4.107 }
-  },
-  {
-    "id": "cr_5",
-    "type": "ev",
-    "title": "Puertollano - C.C. La Estación",
-    "coordinate": { "latitude": 38.691, "longitude": -4.107 }
-  },
-  {
-    "id": "cr_6",
-    "type": "ev",
-    "title": "Daimiel - Plaza España",
-    "coordinate": { "latitude": 39.07, "longitude": -3.615 }
-  },
-  {
-    "id": "cr_7",
-    "type": "ev",
-    "title": "Daimiel - Parking Supermercado",
-    "coordinate": { "latitude": 39.072, "longitude": -3.616 }
-  },
-  {
-    "id": "cr_8",
-    "type": "ev",
-    "title": "Alcázar de San Juan - Estación Renfe",
-    "coordinate": { "latitude": 39.3906, "longitude": -3.2147 }
-  },
-  {
-    "id": "cr_9",
-    "type": "ev",
-    "title": "Alcázar de San Juan - Plaza España",
-    "coordinate": { "latitude": 39.389, "longitude": -3.215 }
-  },
-  {
-    "id": "cr_10",
-    "type": "ev",
-    "title": "Tomelloso - Ayuntamiento",
-    "coordinate": { "latitude": 39.157, "longitude": -3.021 }
-  },
-  {
-    "id": "cr_11",
-    "type": "ev",
-    "title": "Tomelloso - Parking Supermercado",
-    "coordinate": { "latitude": 39.16, "longitude": -3.02 }
-  },
-  {
-    "id": "cr_12",
-    "type": "ev",
-    "title": "Valdepeñas - Plaza de España",
-    "coordinate": { "latitude": 38.762, "longitude": -3.384 }
-  },
-  {
-    "id": "cr_13",
-    "type": "ev",
-    "title": "Valdepeñas - Estación de Servicio Repsol",
-    "coordinate": { "latitude": 38.764, "longitude": -3.388 }
-  },
-  {
-    "id": "cr_14",
-    "type": "ev",
-    "title": "Manzanares - Estación de Autobuses",
-    "coordinate": { "latitude": 38.999, "longitude": -3.373 }
-  },
-  {
-    "id": "cr_15",
-    "type": "ev",
-    "title": "Manzanares - C.C. La Mancha",
-    "coordinate": { "latitude": 38.997, "longitude": -3.373 }
-  },
-  {
-    "id": "cr_16",
-    "type": "ev",
-    "title": "Campo de Criptana - Molinos",
-    "coordinate": { "latitude": 39.403, "longitude": -3.128 }
-  },
-  {
-    "id": "cr_17",
-    "type": "ev",
-    "title": "Campo de Criptana - Ayuntamiento",
-    "coordinate": { "latitude": 39.404, "longitude": -3.127 }
-  },
-  {
-    "id": "cr_18",
-    "type": "ev",
-    "title": "La Solana - Plaza Mayor",
-    "coordinate": { "latitude": 38.943, "longitude": -3.237 }
-  },
-  {
-    "id": "cr_19",
-    "type": "ev",
-    "title": "La Solana - Parking Municipal",
-    "coordinate": { "latitude": 38.944, "longitude": -3.238 }
-  },
-  {
-    "id": "cr_20",
-    "type": "ev",
-    "title": "Socuéllamos - Ayuntamiento",
-    "coordinate": { "latitude": 39.284, "longitude": -2.793 }
-  },
-  {
-    "id": "cr_21",
-    "type": "ev",
-    "title": "Socuéllamos - Parking Comercial",
-    "coordinate": { "latitude": 39.285, "longitude": -2.792 }
-  },
-  {
-    "id": "cr_22",
-    "type": "ev",
-    "title": "Miguelturra - Plaza de España",
-    "coordinate": { "latitude": 38.963, "longitude": -3.890 }
-  },
-  {
-    "id": "cr_23",
-    "type": "ev",
-    "title": "Miguelturra - Parking Deportivo",
-    "coordinate": { "latitude": 38.965, "longitude": -3.892 }
-  },
-  {
-    "id": "cr_24",
-    "type": "ev",
-    "title": "Almagro - Plaza Mayor",
-    "coordinate": { "latitude": 38.888, "longitude": -3.709 }
-  },
-  {
-    "id": "cr_25",
-    "type": "ev",
-    "title": "Almagro - Teatro Municipal",
-    "coordinate": { "latitude": 38.887, "longitude": -3.708 }
-  }
+{
+"type": "FeatureCollection",
+"name": "Capa sin nombre",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Punto de carga Telpark" }, "geometry": { "type": "Point", "coordinates": [ -3.6894456, 40.4244272 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Iberdrola | bp pulse" }, "geometry": { "type": "Point", "coordinates": [ -3.837781, 40.357541 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Wenea" }, "geometry": { "type": "Point", "coordinates": [ -3.5066811, 39.9531858 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Iberdrola | bp pulse" }, "geometry": { "type": "Point", "coordinates": [ -3.664653, 40.163495 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Wenea" }, "geometry": { "type": "Point", "coordinates": [ -3.9178539, 40.2880141 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Iberdrola | bp pulse" }, "geometry": { "type": "Point", "coordinates": [ -3.6126186, 40.5580955 ] } },
+{ "type": "Feature", "properties": { "Name": "Aparcamiento vehículos eléctricos" }, "geometry": { "type": "Point", "coordinates": [ -3.8307836, 40.3020885 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de Recarga Parking Avenida del Oeste" }, "geometry": { "type": "Point", "coordinates": [ -0.3799484, 39.4713881 ] } },
+{ "type": "Feature", "properties": { "Name": "Aparcamiento Vehiculos Electricos" }, "geometry": { "type": "Point", "coordinates": [ -1.1375072, 37.9905176 ] } },
+{ "type": "Feature", "properties": { "Name": "Aparcamiento especial para vehículos eléctricos" }, "geometry": { "type": "Point", "coordinates": [ -8.2522532, 43.3553918 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -5.3653779, 40.1463259 ] } },
+{ "type": "Feature", "properties": { "Name": "Parque Regional de la Sierra de Gredos" }, "geometry": { "type": "Point", "coordinates": [ -5.2684437, 40.2300434 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Wenea" }, "geometry": { "type": "Point", "coordinates": [ -5.2021685, 39.9127077 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -4.8391242, 39.9775659 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -5.524659, 39.89113 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -5.1693309, 39.8444566 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -5.4845488, 40.0308938 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -5.232066, 40.139497 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -6.0432757, 40.142799 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -5.3117015, 40.1400899 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.2519864, 38.9455638 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -3.567643, 38.824859 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.9759787, 38.940941 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.380419, 38.9850132 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -3.9362, 38.977356 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.3486063, 38.9762845 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.9006633, 39.1215972 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -3.399121, 39.180362 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.365086, 39.425029 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.871986, 39.6485333 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -1.149343, 38.038172 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -6.3751421, 38.9218089 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.8209301, 40.2980694 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.5241818, 40.3359748 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.8985109, 40.489771 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.695315, 40.289993 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.7088132, 40.4229739 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.656953, 40.519814 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.6917171, 40.4438608 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Atlante" }, "geometry": { "type": "Point", "coordinates": [ -3.3595306, 38.9985406 ] } },
+{ "type": "Feature", "properties": { "Name": "EDP ES Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.3745285, 38.9992382 ] } },
+{ "type": "Feature", "properties": { "Name": "Iberdrola Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.362867, 38.997238 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.380419, 38.9850132 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Destination Charger" }, "geometry": { "type": "Point", "coordinates": [ -3.3832089, 39.0067015 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de recarga eléctrica Repsol" }, "geometry": { "type": "Point", "coordinates": [ -3.371398, 39.014339 ] } },
+{ "type": "Feature", "properties": { "Name": "Polígono Industrial" }, "geometry": { "type": "Point", "coordinates": [ -3.365344, 39.0135803 ] } },
+{ "type": "Feature", "properties": { "Name": "Zunder Estación de carga" }, "geometry": { "type": "Point", "coordinates": [ -3.3835885, 39.0064052 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Zunder" }, "geometry": { "type": "Point", "coordinates": [ -3.3627558, 39.0140751 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.3832773, 39.0063309 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.2519864, 38.9455638 ] } },
+{ "type": "Feature", "properties": { "Name": "Iberdrola Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.233029, 38.938192 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Eranovum" }, "geometry": { "type": "Point", "coordinates": [ -3.233139, 38.943513 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga E-Totem" }, "geometry": { "type": "Point", "coordinates": [ -3.2246403, 38.9414892 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga EDP ES" }, "geometry": { "type": "Point", "coordinates": [ -3.3903013, 38.7766247 ] } },
+{ "type": "Feature", "properties": { "Name": "EDP ES Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.3872192, 38.7664284 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga ACCIONA Recarga" }, "geometry": { "type": "Point", "coordinates": [ -3.3876716, 38.7600815 ] } },
+{ "type": "Feature", "properties": { "Name": "Endesa X Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.3933485, 38.7486843 ] } },
+{ "type": "Feature", "properties": { "Name": "Endesa X Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.3881612, 38.7545616 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga TotalEnergies" }, "geometry": { "type": "Point", "coordinates": [ -3.3938138, 38.7910345 ] } },
+{ "type": "Feature", "properties": { "Name": "Punto de carga Iberdrola" }, "geometry": { "type": "Point", "coordinates": [ -3.389333, 38.7793237 ] } },
+{ "type": "Feature", "properties": { "Name": "Iberdrola Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.394011, 38.769568 ] } },
+{ "type": "Feature", "properties": { "Name": "Enel X Charging Station" }, "geometry": { "type": "Point", "coordinates": [ -3.3900683, 38.7521121 ] } },
+{ "type": "Feature", "properties": { "Name": "Tesla Supercharger" }, "geometry": { "type": "Point", "coordinates": [ -3.388758, 38.7796843 ] } }
 ]
+}
